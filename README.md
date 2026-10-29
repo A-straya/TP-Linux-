@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Niveau-2%C3%AA%20ann%C3%A9e%20OFPPT-blue?style=for-the-badge" alt="Niveau OFPPT">
   <img src="https://img.shields.io/badge/Syst%C3%A8me-Fedora%20Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Linux">
   <img src="https://img.shields.io/badge/Dur%C3%A9e-2h30-informational?style=for-the-badge" alt="Durée">
-  <img src="https://img.shields.io/badge/Formateur-Hamza%20Boulafkhouda-orange?style=for-the-badge" alt="Formateur">
+ 
 </p>
 
 </div>
@@ -17,7 +17,6 @@
 
 * **Établissement / Niveau** : 2ème année OFPPT (Infrastructure Digitale)[cite: 1]
 * **Support** : Fedora / Linux[cite: 1]
-* **Formateur** : Hamza Boulafkhouda[cite: 1]
 * **Objectif Général** : Installer, configurer et tester les services réseau **DHCP**, **DNS** et **SSH** sur un serveur Fedora en utilisant le terminal, les fichiers de configuration et le pare-feu (`firewalld`).[cite: 1]
 
 ---
